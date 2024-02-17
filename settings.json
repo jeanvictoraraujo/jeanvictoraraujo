@@ -1,0 +1,51 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": -1,
+    "editor.minimap.enabled": false,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "window.titleBarStyle": "native",
+    "frame": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "apc.header": {
+        "height": 36
+    },
+    "apc.listRow": {
+        "height": 22
+    },
+    "apc.font.family": "JetBrains Mono",
+    "apc.stylesheet": {
+        ".title-label > h2": "display: None",
+        ".editor-actions": "display: None",
+    },
+    "explorer.fileNesting.enabled": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font"
+}
