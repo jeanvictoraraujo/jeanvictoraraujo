@@ -13,5 +13,5 @@ Profissional de finanças com foco em Factor Investing e Renda Fixa
 ## Contribuições
 Estou sempre aberto a colaborações e discussões sobre projetos relacionados a finanças quantitativas, factor investing e renda fixa. Sinta-se à vontade para entrar em contato!
 
-##Música
+## Música
 [![Dire Straits - Sultans of Swing](https://img.youtube.com/vi/h0ffIJ7ZO4U/0.jpg)](https://www.youtube.com/watch?v=h0ffIJ7ZO4U)
