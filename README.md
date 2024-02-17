@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**jeanvictoraraujo/jeanvictoraraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Profissional de finanças com foco em Factor Investing e Renda Fixa
 
-Here are some ideas to get you started:
+## Principais Habilidades
+- **Factor Investing:** Implementação e análise de estratégias de investimento baseadas em fatores.
+- **Renda Fixa:** Experiência em análise de ativos de renda fixa.
+- **R e Python:** Experiência em R e Python para análise de dados financeiros e desenvolvimento de modelos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- **LinkedIn:** [Jean Victor](https://www.linkedin.com/in/jeanvictorar/)
+
+## Contribuições
+Estou sempre aberto a colaborações e discussões sobre projetos relacionados a finanças quantitativas, factor investing e renda fixa. Sinta-se à vontade para entrar em contato!
