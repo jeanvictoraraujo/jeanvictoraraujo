@@ -1,6 +1,6 @@
 
 ## Sobre Mim
-Profissional de finanças com foco em Factor Investing e Renda Fixa
+Finanças e Auditoria
 
 ## Principais Habilidades
 - **Factor Investing:** Implementação e análise de estratégias de investimento baseadas em fatores.
